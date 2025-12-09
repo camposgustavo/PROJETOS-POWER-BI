@@ -5,7 +5,7 @@
 
 ![DASHBOARD ANALITICO DE VENDAS GLOBAL](VENDAS-GLOBAL.png)
 
-## RESPOSTAS 
+## PERGUNTAS
 o Dashboard responde as perguntas abaixo:
 - Pergunta 1 -Qual o valor total vendido? 
 - Pergunta 2 -Quantas vendas foram realizadas por categoria de produto?
