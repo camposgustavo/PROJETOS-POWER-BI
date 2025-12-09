@@ -3,13 +3,13 @@
 
 ## DASHBOARD 
 
-![VISÃO DO CLIENTE](PART01.PNG)
+![VISÃO DO CLIENTE](PART01.png)
 
-![](PART02.PNG)
+![](PART02.png)
 
-![](PART03.PNG)
+![](PART03.png)
 
-![](PART04.PNG)
+![](PART04.png)
 
 ## DIVISÃO DO PROJETO
 o mini projeto está divididos em 4 visões:
