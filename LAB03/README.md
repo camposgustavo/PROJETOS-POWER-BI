@@ -1,6 +1,6 @@
-# Lab 3 - Dashboard Analítico de Vendas Globais
-- Atividade prática do Capítulo 4.
+# Lab 3 - Balanço Patrimonial com visual de matriz
+- Atividade prática do Capítulo 9
 
 ## DASHBOARD 
 
-![DASHBOARD ANALITICO DE VENDAS GLOBAL](VENDAS-GLOBAL.png)
+![MATRIZ](img3.png)
