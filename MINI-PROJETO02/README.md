@@ -1,5 +1,5 @@
 # Mini Projeto 2 - Performance de Vendas
-- Atividade prática do Capítulo 4.
+- Atividade prática do Capítulo 5.
 
 ## DIVISÃO DO PROJETO
 o mini projeto está divididos em 4 partes:
